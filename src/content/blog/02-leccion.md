@@ -1,6 +1,6 @@
 ---
 author: Jesus Calamani
-pubDatetime: 2023-03-01T16:47:53.737Z
+pubDatetime: 2023-03-02T16:47:53.737Z
 title: Lección 02
 postSlug: leccion-02
 featured: true
