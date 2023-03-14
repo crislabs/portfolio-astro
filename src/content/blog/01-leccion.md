@@ -24,18 +24,18 @@ Vamos a comenzar nuestro estudio de la lengua inglesa aprendiendo, de memoria, u
 
 1.  Animal (Ánimal) (\*) .... Animal
 2.  Base (beis) ............ Base
-    . Collar (cólaR) ......... Collar
-3.  Control (contróUl)........ Control
-4.  Error (érroR) .......... Error
-5.  General (yéneral)......... General
-6.  Hospital (jóspitAl)...... Hospital
-7.  Idea (aidía) ........... Idea
-8.  Metal (métAl) .......... Meta
-9.  Material (matírial) ........ Mterial
-10. Natural (náchural)....... Natural
-11. No (nóU) ............... No
+3.  Collar (cólaR) ......... Collar
+4.  Control (contróUl)........ Control
+5.  Error (érroR) .......... Error
+6.  General (yéneral)......... General
+7.  Hospital (jóspitAl)...... Hospital
+8.  Idea (aidía) ........... Idea
+9.  Metal (métAl) .......... Meta
+10. Material (matírial) ........ Mterial
+11. Natural (náchural)....... Natural
+12. No (nóU) ............... No
 
-> (\*) Cuando usted encuentre letras >ayúculas en su pronunciación fai muraa, debe pronunciar esas letras débilmente.
+> (\*) Cuando usted encuentre letras mayúculas en su pronunciación figurada, debe pronunciar esas letras débilmente.
 
 13. Opinion (opíniOn)....... Opinión
 14. Gas (gas)… .......….... Gas
@@ -126,10 +126,10 @@ pronunciación figurada como si tuvieran medio valor, es decir, con un sonido ap
 
 Las palabras IS y ARE son sumamente usadas en la lengua inglesa, por ello es indispensable que usted preste especial atención a esta parte de su estudio.
 
-**Is** (iz) significa es o está . \
+**Is** (iz) significa es o está. \
 **Are** ( aR) significa son o están.
 
-Estudie cuidadosamente estas frases:
+_Estudie cuidadosamente estas frases_:
 
 80. He is my brother (\*) ......... El es mi hermano
 81. They are sisters ............. Ellas son hermanas
@@ -228,7 +228,7 @@ Es difícil aprender palabras extranjeras si se tratan de estudiar de forma aisl
 Work (uéeRk) .................. Trabajo \
 This (dis) .................... Este, esta, esto \
 That (dat) .................... Ese, esa, eso \
-Very (véry) ................... Muy \
+Very (véry) .................. Muy \
 Good (gúd) .................... Buen, bueno, buena \
 Top (tóp) ..................... Cima, cumbre \
 Of (óv) ....................... De \
