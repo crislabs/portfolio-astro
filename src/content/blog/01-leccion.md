@@ -66,7 +66,7 @@ En inglés, como en castellano, existen terminaciones especiales que agregadas a
 
 No hay ninguna dificultad en aprender esas nuevas palabras, porque ellas se derivan de otras ya conocidas. La terminación ing indica la acción de la cosa señalada por la palabra.
 
-(\*) La dificultad de pronunciar perfectamente las palabras ingles>as no debe preocupar demasiado al estudiante, quién, a medida qusas noa avanzando en este libro, irá recibiendo instrucciones apropiadas para ir perfeccionando su pronunciación.
+> (\*) La dificultad de pronunciar perfectamente las palabras inglesas no debe preocupar demasiado al estudiante, quién, a medida qusas noa avanzando en este libro, irá recibiendo instrucciones apropiadas para ir perfeccionando su pronunciación.
 
 35. Light (lait) .............. Luz
 36. Lighting (laiting) ......... Alumbrando
@@ -232,14 +232,14 @@ Very (véry) ................... Muy \
 Good (gúd) .................... Buen, bueno, buena \
 Top (tóp) ..................... Cima, cumbre \
 Of (óv) ....................... De \
-Tree (tríi) (1) ............... Arbol \
+Tree (tríi) (\*) ............... Arbol \
 Baby (béibi) .................. Nene \
 Mountain (mauntin) ............ Montaña \
 Pencil (pénsil) ............... Lápiz \
 Green (gríin) ................. Verde \
 Map (map) ..................... Mapa
 
-(1) Siempre que en su pronunciación figurada aparezcan dos letras iguales y seguidas, se pronunciar n esas letras no como si fueran dos letras separadas, sino como si fuera una sola con un sonido alargado.
+> (\*) Siempre que en su pronunciación figurada aparezcan dos letras iguales y seguidas, se pronunciar n esas letras no como si fueran dos letras separadas, sino como si fuera una sola con un sonido alargado.
 
 And (and) ..................... Y \
 Ill (il) ...................... Enfermo, enferma \
