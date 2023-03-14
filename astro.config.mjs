@@ -41,6 +41,6 @@ export default defineConfig({
       exclude: ["@resvg/resvg-js"],
     },
   },
-  output: "server",
-  adapter: netlify(),
+  //output: "server",
+  //adapter: netlify(),
 });
