@@ -1,9 +1,9 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  website: "https://inglesbasico.vercel.app/",
+  author: "Jesus Calamani",
+  desc: "Ingles Básico - Armando Ghio ",
   title: "InglesBásico",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
