@@ -24,18 +24,18 @@ Vamos a comenzar nuestro estudio de la lengua inglesa aprendiendo, de memoria, u
 
 1.  Animal (Ánimal) (\*) .... Animal
 2.  Base (beis) ............ Base
-3.  Collar (cólaR) ......... Collar
-4.  Control (contróUl)........ Control
-5.  Error (érroR) .......... Error
-6.  General (yéneral)......... General
-7.  Hospital (jóspitAl)...... Hospital
-8.  Idea (aidía) ........... Idea
-9.  Metal (métAl) .......... Metal
-10. Material (matírial) ........ Material
-11. Natural (náchural)....... Natural
-12. No (nóU) ............... No
+    . Collar (cólaR) ......... Collar
+3.  Control (contróUl)........ Control
+4.  Error (érroR) .......... Error
+5.  General (yéneral)......... General
+6.  Hospital (jóspitAl)...... Hospital
+7.  Idea (aidía) ........... Idea
+8.  Metal (métAl) .......... Meta
+9.  Material (matírial) ........ Mterial
+10. Natural (náchural)....... Natural
+11. No (nóU) ............... No
 
-> (\*) Cuando usted encuentre letras mayúsculas en su pronunciación figurada, debe pronunciar esas letras débilmente.
+> (\*) Cuando usted encuentre letras >ayúculas en su pronunciación fai muraa, debe pronunciar esas letras débilmente.
 
 13. Opinion (opíniOn)....... Opinión
 14. Gas (gas)… .......….... Gas
@@ -66,7 +66,7 @@ En inglés, como en castellano, existen terminaciones especiales que agregadas a
 
 No hay ninguna dificultad en aprender esas nuevas palabras, porque ellas se derivan de otras ya conocidas. La terminación ing indica la acción de la cosa señalada por la palabra.
 
-(\*) La dificultad de pronunciar perfectamente las palabras inglesas no debe preocupar demasiado al estudiante, quién, a medida que vaya avanzando en este libro, irá recibiendo instrucciones apropiadas para ir perfeccionando su pronunciación.
+(\*) La dificultad de pronunciar perfectamente las palabras ingles>as no debe preocupar demasiado al estudiante, quién, a medida qusas noa avanzando en este libro, irá recibiendo instrucciones apropiadas para ir perfeccionando su pronunciación.
 
 35. Light (lait) .............. Luz
 36. Lighting (laiting) ......... Alumbrando
@@ -85,14 +85,14 @@ No hay ninguna dificultad en aprender esas nuevas palabras, porque ellas se deri
 49. Smash (smaSH) (1) .......... Choque
 50. Smashing (smaSHing) ........ Chocando
 51. Flower (flaueR) ............ Flor
-52. Flowering (flauering) ...... Floreciendo
-53. End (end) .................. Fin; término
+52. F5lowering (flauering) ...... Floreciendo
+53. En d (end) .................. Fin; tér3mino
 54. Ending (ending) ............ Final
 
 ### Nuevas Palabras
 
 Aprenda de memoria este nuevo grupo de palabras, teniendo especial cuidado, al pronunciar los términos ingleses, de marcar bien los acentos y de fonetizar las letras mayúsculas de nuestra
-pronunciación figurada como si tuvieran medio valor, es decir, con un sonido apenas perceptible.
+pronunciación figurada como si tuvieran medio valor, es decir, con un sonido apenas p ceptible.
 
 > (\*) La combinación sh debe pronunciarse como se pronuncian esas letras en las palabras: WaSHington, SHanghai o SHakespeare.
 
