@@ -267,35 +267,213 @@ números que va a continuación, y luego no le costar nada
 familiarizarse con los otros que se derivan de ellos.
 Estudie de memoria los siguientes números:
 
-1 . One (**_uan_**)
-2 . Two (**_tuu_**)
-3 . Three (**_zrii_**)
-4 . Four (**_foor_**)
-5 . Five (**_faiv_**)
-6 . Six (**_siks_** )
-7 . Seven (**_sevEn_**)
-8 . Eight (**_eit_**)
-9 . Nine (**_nain_**)
-10 . Ten (**_ten_**)
-11 . Eleven (**_ilévEn_**)
-12 . Twelve (**_tuelv_**)
-13.- Thirteen (**_zéeRtíin_**)
-14.- Fourteen (**_fóoRtíin_**)
-15.- Fifteen (**_fiftíin_**)
-16.- Sixteen (**_sikstíin_**)
-20.- Twenty (**_tuénti_**)
-21.- Twenty-one
-30.- Thirty (**_zéeRti_**)
-40.- Forty (**_fóoRti_**)
+1.- One (**_uan_**) \
+2.- Two (**_tuu_**) \
+3.- Three (**_zrii_**) \
+4.- Four (**_foor_**) \
+5.- Five (**_faiv_**) \
+6.- Six (**_siks_** ) \
+7.- Seven (**_sevEn_**) \
+8.- Eight (**_eit_**) \
+9.- Nine (**_nain_**) \
+10.- Ten (**_ten_**) \
+11.- Eleven (**_ilévEn_**) \
+12.- Twelve (**_tuelv_**) \
+13.- Thirteen (**_zéeRtíin_**) \
+14.- Fourteen (**_fóoRtíin_**) \
+15.- Fifteen (**_fiftíin_**) \
+16.- Sixteen (**_sikstíin_**) \
+17.- Seventeen (**_séventíin_**) \
+18.- Eighteen (**_éitíi_**) \
+19.- Nineteen (**_naintíin_**) \
+20.- Twenty (**_tuénti_**) \
+21.- Twenty-one \
+22.- Twenty-two (**_tuénti-tuu_**) \
+30.- Thirty (**_zéeRti_**) \
+31.- Thirty-one (**_zéeRti-uan_**) \
+40.- Forty (**_fóoRti_**) \
 50.- Fifty (**_fífti_**)
-100.- One Hundred (**_uan jandred_** )
-1.000.- One thousand (**_uan zausand_**)
+60.- Sixty (**_síksti_**) \
+ 70.- Seventy (**_séventi_**) \
+ 80.- Eighty (**_éiti_**) \
+ 90.- Ninety (**_nainti_**) \
+100.- One Hundred (**_uan jandred_** ) \
+1.000.- One thousand (**_uan zausand_**) \
 1.000.000.- One million (**_uan mílien_**)
 
 Una vez aprendidos los números arriba indicados, es tarea
 sumamente sencilla aprender los demás, como se comprobar examinando
 y grabando en la memoria los números que van a
 continuación:
+
+100.- One hundred \
+101.- One hundred and one \
+ 102.- One hundred and two \
+103.- One hundred and three \
+ 104.- One hundred and four \
+105.- One hundred and five \
+ 106.- One hundred and six \
+107.- One hundred and seven \
+ 108.- One hundred and eight \
+109.- One hundred and nine \
+ 110.- One hundred and ten \
+125.- One hundred and twenty-five \
+ 130.- One hundred and thirty \
+134.- One hundred and thirty-four \
+ 140.- One hundred and forty \
+148.- One hundred and forty-eight \
+ 201.- Two hundred and one \
+275.- Two hundred and sevety-five \
+ 282.- Two hundred and eighty- two \
+ 298.- Two hundred and ninety-eight \
+ 435.- Four hundred and thirty-five \
+ 569.- Five hundred and sixty-nine \
+ 627.- Six hundred and twenty-seven \
+ 777.- Seven hundred and seventy-seven \
+ 857.- Eight hundred and fifty-seven \
+ 900.- Nine hundred \
+ 1.003.- One thousand and three \
+ 1.165.- One thousand one hundred and sixty-five \
+ 1.256.- One thousand two hundred and fifty-six \
+ 1.343.- One thousand three hundred and forty-three \
+ 1.507.- One thousand five hundred and seven \
+ 1.686.- One thousand six hundred and eighty-six \
+ 2.645.- Two thousand six hundred and forty-five \
+ 3.000.- Three thousand (**_zríi zausand_**) \
+ 10.000.- Ten thousand \
+ 100.000.- One hundred thousand \
+1.000.000.- One million (**_uan mílien_**)
+
+## La terminación Ly
+
+La terminación inglesa ly corresponde a la castellana mente, y con
+ella se convierten en adverbios la mayor parte de los adjetivos
+básicos.
+Estudie de memoria las palabras que van a continuación, las que le
+dar n una idea clara de la modificación que experimentan las
+palabras a las cuales se les añade la terminación ly.
+
+Clear (**_clíaR_**) ............... Claro \
+ Clearly (**_clíaRli_**) ........... Claramente \
+ Cruel (**_crúel_**) ............... Cruél \
+ Cruelly (**_crúel_**-li) .......... Cruelmente \
+ Year (**_yíaR_**) ................. Año \
+ Yearly (**_yíaRli_**) ............. Anualmente \
+ Rough (**_raf_**) ................. Tosco \
+ Roughly (**_rafli_**) ............. Toscamente \
+ Solid (**_sólid_**) ............... Sólido \
+ Solidly (**_sólid_**-li) .......... Sólidamente \
+ Day (**_déi_**) ................... Día \
+ Daily (**_déili_**) ............... Diariamente \
+ Could (**_cóuld_**) ............... Frío \
+ Couldly (**_cóUld_**-li) .......... Fríamente \
+ Deep (**_díip_**) ................. Profundo \
+ Deeply (**_díipli_**) ............. Profundamente \
+ Feeble (**_fíibEl_**) ............. Débil \
+ Feebly (**_fíibli_**) ............. Débilmente \
+ Open (**_óupEn_**) ................ Abierto \
+ Openly (**_óUpEnli_**) ............ Abiertamente \
+ Quick (**_cúik_**) ................ Rápido \
+ Quickly (**_cúik_**-li) ........... Rápidamente \
+ Violent (**_vaiolent_**) .......... Violento \
+ Violently (**_vaiolentli_**) ...... Violentamente \
+ Bright (**_brait_**) .............. Brillante \
+ Brightly (**_brait_**-li) ......... Brillantemente \
+ Narrow (**_naroU_**) .............. Estrecho \
+ Narrowly (**_naroUli_**) .......... Estrechamente \
+ Normal (**_nóoRmAl_**) ............ Normal \
+ Normally (**_nóoRmAli_**) ......... Normalmente \
+ Posible (**_pósibEl_**) ........... Posible \
+ Posibly (**_pósibli_**) ........... Posiblemente \
+ Probable (**_próbabEl_**) ......... Probable \
+ Probably (**_próbabli_**) ......... Probablemente \
+ Secret (**_síicrit_**) ............ Secreto \
+ Secretly (**_síicritli_**) ........ Secretamente \
+ Smooth (**_smúuz_**) .............. Suave \
+ Smoothly (**_smúuzli_**) .......... Suavemente \
+ Strong (**_stróng_**) ............. Fuerte \
+ Strongly (**_stróngli_**) ......... Fuertemente \
+Delicate (**_déliket_**) .......... Delicado \
+ Delicatly (**_déliketli_**) ....... Delicadamente \
+ Frequent (**_frícuent_**) ......... Frecuente \
+ Frequently (**_frícuentli_**) ..... Frecuentemente \
+ Separate (**_sépareit_**) ......... Separado \
+ Separately (**_sépareitli_**) ..... Separadamente \
+ Wise (**_uais_**) ................. Sabio \
+ Wisely (**_uaisli_**) ............. Sabiamente \
+ Free (**_fríi_**) ................. Libre \
+ Freely (**_fríili_**) ............. Libremente \
+ Private (**_praivit_**) ........... Privado \
+ Privately (**_praivitli_**) ....... Privadamente
+
+## Palabras compuestas
+
+Es muy común en inglés unir una palabra con otra, formando así una
+nueva.
+
+Estas palabras compuestas a veces están separadas por un guión y
+otras veces van sin guión; eso no tiene gran importancia.
+
+No encontrará ninguna dificultad en aprender las palabras
+compuestas, porque provienen de otras ya conocidas por usted. Por
+ejemplo: Ticket-office (boleto-oficina) significa boletería;
+Milkman (leche-hombre) corresponde a lechero.
+
+Es tan común el uso de unir palabras en el idioma inglés, que
+usted deber aprender de memoria las que vayamos dándole.
+
+La pronunciación de las palabras así compuestas es la que
+corresponde a cada palabra por separado.
+
+School (**_scúul_**) ........ Escuela, colegio \
+ Girl (**_guéRl_**) .......... Niña, doncella \
+ School-girl ........... Colegiala (escuela-niña) \
+ Plough (**_plau_**) ......... Arado \
+ Man (**_man_**) ............. Hombre \
+ PLough-man ............ Arador (arado-hombre) \
+ Milk (**_milk_**) ........... Leche \
+ Milkman ............... Lechero (leche-hombre) \
+ Foot (**_fút_**) ............ Pie \
+ Ball (**_bóol_**) ........... Pelota \
+ Foot-ball ............. Fútbol (pie-pelota) \
+ Soup (**_súup_**) ........... Sopa \
+ Plate (**_pléit_**) ......... Plato \
+ Soup-plate ............ Plato sopero (sopa-plato) \
+ Fixed (**_fíkst_**) ......... Fijo, estable, permanente \
+ Price (**_prais_**) ......... Precio \
+ Fixed-price ........... Precio fijo (fijo-precio)\
+ Horse (**_jóoRs_**) ......... Caballo \
+ Man (**_man_**) ............. Hombre \
+ Horseman .............. Jinete (caballo-hombre) \
+ Letter (**_léteR_**) ........ Carta \
+ Box (**_bóks_**) ............ Caja \
+ Letter-box ............ Buzón (carta-caja) \
+ Sun (**_san_**) ............. Sol \
+ Light (**_lait_**) .......... Luz, liviano \
+ Sun-light ............. La luz del sol (sol-luz) \
+ Foot (**_fút_**) ............ Pie \
+ Print (**_print_**) ......... Impreso \
+ Footprint ............. Huella (pié impreso) \
+ School (**_scúul_**) ........ Escuela, colegio \
+ Book (**_búk_**) ............ Libro \
+ School-book ........... Libro de escuela (escuela-libro) \
+ Boy (**_bói_**) ............. Niño \
+ School-boy ............ Colegial (escuela-niño) \
+ Water (**_uóoteR_**) ........ Agua \
+ Pipe (**_paip_**) ........... Cañería, pipa \
+ Water-pipe ............ Cañería de agua (agua-cañería) \
+ Trade (**_tréid_**) ......... Comercio, negocio \
+ Mark (**_máaRk_**) .......... Marca \
+ Trade mark ............ Marca de fábrica \
+ Way (**_uéi_**) ............. Camino, manera \
+ Out (**_aut_**) ............. Fuera \
+ Way-out ............... Salida (camino-afuera) \
+ Fire (**_faiaR_**) .......... Fuego, incendio \
+ Man (**_man_**) ............. Hombre \
+ Fireman ............... Bombero \
+ Every (**_évRri_**) ......... Cada, cada uno \
+ Day (**_déi_**) ............. Día \
+ Everyday .............. Cada día. Todos los días
 
 > (1) No olvide pronunciar débilmente las letras mayúsculas y cargar bien los acentos.
 
