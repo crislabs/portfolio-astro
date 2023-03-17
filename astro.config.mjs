@@ -6,7 +6,7 @@ import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
-import netlify from "@astrojs/netlify/functions";
+import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
@@ -43,4 +43,6 @@ export default defineConfig({
   },
   //output: "server",
   //adapter: netlify(),
+  output: "server",
+  adapter: vercel(),
 });
